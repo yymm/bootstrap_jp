@@ -57,6 +57,10 @@ GOOGLE_ANALYTICS = "your id"
 
 # demo
 
+![demogif](http://i.gyazo.com/7e68801f20c19afa00ce281a280cf24d.gif)
+
+---
+
 ![demo1](demo1.png)
 
 ![demo2](demo2.png)
